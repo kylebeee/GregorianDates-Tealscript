@@ -1,0 +1,9 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 2.0.5
+_src_path: gh:algorandfoundation/algokit-fullstack-template
+author_email: kyle.breeding@algorand.foundation
+author_name: Kyle Breeding
+contract_name: GregorianDates
+preset_name: starter
+project_name: GregorianDates
+
