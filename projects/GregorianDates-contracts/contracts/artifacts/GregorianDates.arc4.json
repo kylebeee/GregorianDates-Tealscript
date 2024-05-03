@@ -1,0 +1,25 @@
+{
+  "name": "GregorianDates",
+  "desc": "",
+  "methods": [
+    {
+      "name": "toDate",
+      "args": [
+        {
+          "name": "ts",
+          "type": "uint64"
+        }
+      ],
+      "returns": {
+        "type": "(uint64,uint64,uint64)"
+      }
+    },
+    {
+      "name": "createApplication",
+      "args": [],
+      "returns": {
+        "type": "void"
+      }
+    }
+  ]
+}
